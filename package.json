@@ -12,7 +12,7 @@
   },
   "bin": {
     "xclimsg": "./index.js"
-  }
+  },
   "keywords": [
     "x11",
     "ewmh",
