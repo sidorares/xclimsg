@@ -1,0 +1,31 @@
+{
+  "name": "xclimsg",
+  "version": "1.0.0",
+  "description": "send ewmh ClientMessage to x11 window",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sidorares/xclimsg"
+  },
+  "bin": {
+    "xclimsg": "./index.js"
+  }
+  "keywords": [
+    "x11",
+    "ewmh",
+    "cli"
+  ],
+  "author": "Andrey Sidorov <sidorares@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sidorares/xclimsg/issues"
+  },
+  "homepage": "https://github.com/sidorares/xclimsg",
+  "dependencies": {
+    "commander": "^2.6.0",
+    "x11": "^1.0.3"
+  }
+}
