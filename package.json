@@ -26,6 +26,6 @@
   "homepage": "https://github.com/sidorares/xclimsg",
   "dependencies": {
     "commander": "^2.6.0",
-    "x11": "^1.0.3"
+    "x11": "^2.2.1"
   }
 }
